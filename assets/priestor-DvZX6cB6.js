@@ -1,0 +1,1 @@
+var e=`/assets/priestor-CDvVnDI3.jpg`;export{e as t};

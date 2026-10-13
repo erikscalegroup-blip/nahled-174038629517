@@ -1,0 +1,1 @@
+var e=`/assets/dych-D3hm9-hC.jpg`;export{e as t};

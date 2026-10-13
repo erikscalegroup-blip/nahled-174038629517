@@ -1,0 +1,1 @@
+var e=`/assets/hero-BRBRKZry.jpg`;export{e as t};

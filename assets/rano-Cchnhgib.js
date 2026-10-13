@@ -1,0 +1,1 @@
+var e=`/assets/rano-CgD0_AQX.jpg`;export{e as t};
